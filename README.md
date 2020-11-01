@@ -1,2 +1,5 @@
-# todolistangular
-To do list app using Angular
+# To Do List
+
+# User story
+
+# Acceptance Criteria
